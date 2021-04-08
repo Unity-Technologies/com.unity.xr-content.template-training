@@ -1,0 +1,18 @@
+{
+  "name": "com.unity.xr-content.template-training",
+  "version": "1.0.0",
+  "displayName": "Unity MARS Training Template",
+  "description": "A pre-authored Unity scene, walkthrough system, and UI setup. This template provides the resources needed to guide a user through a series of guided steps in the world.",
+  "unity": "2019.3",
+  "unityRelease": "0f6",
+  "dependencies": {
+  },
+  "samples": [
+    {
+      "displayName": "Unity MARS Training Template Content",
+      "description": "The content associated with the Unity MARS training template.  This is installed into the project folder.",
+      "path": "UnityPackage~/",
+      "interactiveImport": true
+    }
+  ]
+}
