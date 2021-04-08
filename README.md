@@ -6,7 +6,7 @@ This template provides a sample meta-walkthrough that guides developers through 
 
 ## Requirements
 
-This content requires Unity MARS to function. This content is available through the Unity Content Manager - the recommended installation method. This source branch is provided for inspecting files individually or manual installation.
+This content requires Unity MARS to function.
 The sample walkthrough is designed to run in the Factory simulation environment. MARS simulations environments must be installed to have access to the factory environment.
 
 ## Included Templates
