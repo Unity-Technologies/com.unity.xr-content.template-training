@@ -2,3 +2,5 @@
 *.fbm
 *.fbm.meta
 .DS_Store
+
+upm-ci~
